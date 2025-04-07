@@ -1,0 +1,15 @@
+
+
+@font-face {
+    font-family: 'igbr-DM Serif Display';
+    
+    
+    src: 
+        url('https://branding.jifo.co/ee7142c6-2597-4508-b23e-3699f6b7fe44_DM-Serif-Display-Regular.woff2') format('woff2'),
+        
+        url('https://branding.jifo.co/0c01522d-1dee-445d-a317-3631ee501970_DM-Serif-Display-Regular.woff') format('woff'),
+        
+        url('https://branding.jifo.co/40d3f374-f40d-4921-b9d0-f066fe809818_DM-Serif-Display-Regular.ttf') format('truetype');
+        
+}
+
